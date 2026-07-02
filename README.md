@@ -139,6 +139,14 @@ Output includes:
 - Recommendation (Invest / Hold / Pass)
 
 ---
+## Key Decisions & Trade-offs
+
+- Built an MVP focusing on the core AI workflow.
+- Used Gemini API for fast prototyping.
+- Did not include database or authentication because they were outside the scope of the MVP.
+- Focused on producing structured JSON output that the frontend could easily display.
+
+---
 
 ## Future Improvements
 
