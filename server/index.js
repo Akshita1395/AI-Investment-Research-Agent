@@ -63,9 +63,6 @@ data.cons = data.cons.slice(0, 3);
 
 res.json(data);
 
-// Send JSON to frontend
-res.json(data);
-
     } catch (error) {
 
         console.log(error);
